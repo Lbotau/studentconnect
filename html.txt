@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site E-Learning</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur notre plateforme d’e-learning</h1>
+        <nav>
+            <ul>
+                <li><a href="#annales">Annales</a></li>
+                <li><a href="#temoignages">Témoignages</a></li>
+                <li><a href="#actualites">Actualités</a></li>
+                <li><a href="#outils">Outils</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="annales">
+            <h2>Annales</h2>
+            <p>Retrouvez les annales des années précédentes pour mieux vous préparer.</p>
+            <!-- Ajoute ici des liens ou des ressources -->
+        </section>
+
+        <section id="temoignages">
+            <h2>Témoignages</h2>
+            <p>Lisez les témoignages d'anciens élèves et de professeurs pour obtenir des conseils et des retours d'expérience.</p>
+            <!-- Ajoute ici des témoignages -->
+        </section>
+
+        <section id="actualites">
+            <h2>Actualités</h2>
+            <p>Restez informé des dernières actualités concernant les programmes et les événements.</p>
+            <!-- Ajoute ici des articles ou des mises à jour -->
+        </section>
+
+        <section id="outils">
+            <h2>Outils d'Aide</h2>
+            <p>Découvrez des outils utiles pour la gestion de votre formation et vos révisions.</p>
+            <!-- Ajoute ici des outils ou des liens utiles -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Plateforme E-Learning. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
